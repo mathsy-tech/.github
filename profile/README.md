@@ -1,6 +1,6 @@
 ## Welcome to mathsy! 🚀
 
-mathsy is an AI-powered mathematics education platform that focuses on creating digital exam-prep textbooks
+mathsy is an AI-powered mathematics education platform that focuses on creating digital exam-prep textbooks. Our textbooks allow for a truly interactive learning experience where students can engage with their own personalised AI tutor throughout, allowing for a richer learning experience.
 
 ### Our Projects 📚
 
